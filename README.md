@@ -48,3 +48,20 @@ $ pod install
 
 
 ```
+
+그리고 난 다음에 바로 build 를 할경우 오류가 나타난다. (본인의 경우)
+
+오류가 안나면 다행이지만, 만약 오류가 나타날시에
+
+xcode 를 끄고, 터미널을 이용해서 프로젝트 내부로 진입하여,
+
+```zsh
+
+$ open 프로젝트이름.xcworkspace
+
+
+```
+
+command 를 사용해서 xcode 를 연다음 build 하면 succeed 가 나타나는 것을 확인 할수 있다.
+
+[참고](https://developer.apple.com/forums/thread/660864)

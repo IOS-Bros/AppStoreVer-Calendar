@@ -1,0 +1,24 @@
+PODS:
+  - CalendarLib (2.0):
+    - OrderedDictionary (~> 1.2)
+    - OSCache (~> 1.2)
+  - OrderedDictionary (1.4)
+  - OSCache (1.2.1)
+
+DEPENDENCIES:
+  - CalendarLib
+
+SPEC REPOS:
+  trunk:
+    - CalendarLib
+    - OrderedDictionary
+    - OSCache
+
+SPEC CHECKSUMS:
+  CalendarLib: 040a8a655376581d8dc7c3c63196ddcf5223f471
+  OrderedDictionary: 138c8d2e358d3a0c9adda15c6c7db24e8e3b09e6
+  OSCache: 826996b68e8542a8a3d8af1ab0a0fc3070d8f357
+
+PODFILE CHECKSUM: 9bd715d5499ebc1b1a182265c3b26743c9e0e977
+
+COCOAPODS: 1.10.1

@@ -4,9 +4,8 @@
 
 [Cocoa Pod](https://cocoapods.org/)
 
-1. [Option 1](https://cocoapods.org/pods/CalendarView)
-2. [Option 2](https://cocoapods.org/pods/Calendar-iOS)
+> > 하단의 status dot이 위치해 있음 👨‍💻 JASPER PICKes
 
-> > 하단의 status dot이 위치해 있음 👨‍💻 JASPER PICK
+1. [Option 1](https://cocoapods.org/pods/CalendarLib)
 
-3. [Option 3](https://cocoapods.org/pods/CalendarIOS7)
+2. [Option 2](https://cocoapods.org/pods/CalendarIOS7)
